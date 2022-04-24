@@ -13,4 +13,5 @@ public static void main(String args[]){
 	qqqqqqqqqqqqq
 	zhouzhiqiang
 	sout(login);
+	wdd
 }
